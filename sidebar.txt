@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[rue:home|Door43 (rue)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-rue|d43-rue repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-rue/archive/master.zip|d43-rue.zip]]
+
+**Recent Changes**
+{{changes>ns = rue}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/rue|Ethnologue data]]
+
